@@ -13,7 +13,7 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", () =>
 {
-    return "welcome 2";
+    return "welcome 3";
     //var forecast = Enumerable.Range(1, 5).Select(index =>
     //    new WeatherForecast
     //    (
